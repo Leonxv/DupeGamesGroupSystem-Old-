@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: User
- * Date: 13.11.2018
- * Time: 13:38
- */
 
 namespace Mastercoding\Group;
 
